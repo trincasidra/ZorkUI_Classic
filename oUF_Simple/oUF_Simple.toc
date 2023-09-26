@@ -1,0 +1,30 @@
+## Interface: 11404
+## Title: oUF_Simple
+## Author: zork
+## Notes: Simple oUF layout
+## Dependencies: rLib, oUF_SimpleConfig
+
+embeds\LibStub\LibStub.lua
+embeds\Taintless\Taintless.xml
+embeds\LibDispel\LibDispel.lua
+embeds\oUF\oUF_Classic.xml
+
+modules\oUF_DebuffHighlight.lua
+
+core\init.lua
+core\functions.lua
+core\tags.lua
+core\style.lua
+
+templates\player.lua
+templates\target.lua
+templates\targettarget.lua
+templates\pet.lua
+templates\focus.lua
+templates\mouseover.lua
+templates\party.lua
+templates\boss.lua
+templates\nameplate.lua
+templates\raid.lua
+
+core\spawn.lua

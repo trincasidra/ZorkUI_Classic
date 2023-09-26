@@ -1,0 +1,8 @@
+## Interface: 11404
+## Author: zork
+## Title: rMinimap
+## Notes: Zork's Minimap adjustments
+## RequiredDeps: rLib
+## OptionalDeps: Questie
+
+core.lua
